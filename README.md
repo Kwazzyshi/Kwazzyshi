@@ -24,4 +24,5 @@ Karate black belt · MMA enthusiast · Football lover · Gym daily · High-prote
 📜 certifications
 
 Bloomberg Finance Fundamentals
+
 Anthropic Mcp Integration 
