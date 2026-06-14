@@ -1,28 +1,34 @@
-## Hi there 👋
-hey, I'm Jatin 👋
+# Hey, I'm Jatin 👋
 
-AI & Data Science student. Fintech builder. Karate black belt. Always shipping.
+I'm a second-year **AI & Data Science student at NMIMS Navi Mumbai**, building projects at the intersection of **AI, automation, data, and financial markets**.
 
+I enjoy taking ideas beyond tutorials and turning them into practical, working products.
 
-🧠 what I do
-I'm a 2nd-year AI & DS engineering student at NMIMS Navi Mumbai obsessed with building at the intersection of AI, data, and financial markets.
-I don't just study the stack — I ship with it.
+## What I build
 
-🚀 things I've built
-ProjectWhat it doesTradeXReal-time trading dashboard — live data, clean UI, zero fluffSilver Narrative IntelligenceTracks market narratives as they form, not after they moveInvoSyncAI-powered invoice automation — LLMs doing the boring work so you don't have to
+| Project | What it does |
+|---|---|
+| **TradeX** | A real-time Indian trading dashboard designed to make market data, portfolio activity, and order tracking easier to understand. |
+| **Silver Narrative Intelligence** | Tracks emerging market narratives across news and online discussions to understand how sentiment develops around silver. |
+| **InvoSync** | An AI-powered invoice automation pipeline that extracts, validates, and organizes invoice data with minimal manual work. |
 
-🎯 currently
+## What I'm currently working on
 
-🌌 Building a 3D scroll-driven portfolio with React Three Fiber + GSAP
-📈 Deepening my fintech + AI systems knowledge
-🤝 Active in E-Cell NMIMS — organizing, sponsorships, making things happen
+- Building a 3D, scroll-driven portfolio using **React Three Fiber and GSAP**
+- Deepening my understanding of **fintech systems, AI workflows, and production-ready applications**
+- Exploring better ways to combine **LLMs, automation, and structured data**
+- Contributing to college initiatives through **event organization, outreach, and sponsorships**
 
+## Beyond code
 
-🏋️ not just code
-Karate black belt · MMA enthusiast · Football lover · Gym daily · High-protein vegetarian (yes, it's possible)
+I'm a **karate black belt**, MMA enthusiast, football fan, and regular at the gym.  
+Also a high-protein vegetarian — yes, it is possible.
 
-📜 certifications
+## Certifications
 
-Bloomberg Finance Fundamentals
+- **Bloomberg Finance Fundamentals**
+- **Anthropic MCP Integration**
 
-Anthropic Mcp Integration 
+---
+
+I am always open to learning, collaborating, and building something useful.
