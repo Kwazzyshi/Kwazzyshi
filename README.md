@@ -78,5 +78,5 @@ I enjoy taking ideas beyond tutorials and turning them into practical, productio
 
 I'm always open to learning, collaborating, and building meaningful products.
 
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: (https://www.linkedin.com/in/jatin-bamola-34bb35319/)
 - Portfolio: *(Coming Soon 🚧)*
